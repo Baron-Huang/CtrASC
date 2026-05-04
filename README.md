@@ -1,5 +1,5 @@
 # HACircuit
-Human-prior Aligned Multi-order Instance Interaction Circuits Construct Diagnostically Transparent and Objective Pan-squamous Grading Score Systems
+Human-prior Aligned Multi-order Instance Interaction Circuits Construct Diagnostically-transparent and Objective Pan-squamous Grading Score Systems
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Chentao Li*, Jing Qin*
