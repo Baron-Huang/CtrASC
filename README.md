@@ -1,5 +1,5 @@
 # CtrASC
-An Interpretable Benchmark for Resolving Pathological Grading Ambiguity across the Continuous Pan-squamous Differentiation Spectrum
+An Interpretable Pan-squamous Benchmark for Resolving Pathological Grading Ambiguity across the Continuous Differentiation Spectrum 
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Xinwei Zhang, Zheng Gu, Yiwen Wang, Zhenglin Ji, Guoqing Fu, Chentao Li*, Yifang Ping*, and Jing Qin*
