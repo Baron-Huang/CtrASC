@@ -34,7 +34,7 @@ To get started with **CrtASC**, follow the installation instructions below.
 1.  Clone the repo
 
 ```sh
-git clone https://github.com/Prince-Lee-PathAI/HCF-MIL
+git clone https://github.com/Baron-Huang/CrtASC
 ```
 
 2. Install dependencies
