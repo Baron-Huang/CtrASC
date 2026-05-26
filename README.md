@@ -1,8 +1,8 @@
-# HACircuit
-Human-prior Aligned Multi-order Interaction Mixing Circuits Construct Diagnostically-transparent and Objective Pan-squamous Grading Score Systems
+# CrtASC
+An Interpretable Benchmark for Resolving Pathological Grading Ambiguity across the Continuous Pan-squamous Differentiation Spectrum
 
 ## 🧔: Authors [*Corresponding author]
-Pan Huang, Chentao Li*, Jing Qin*
+Pan Huang, Xinwei Zhang, Zheng Gu, Yiwen Wang, Zhenglin Ji, Guoqing Fu, Chentao Li*, Yifang Ping*, and Jing Qin*
 
 ## :fire: News
 
@@ -12,7 +12,7 @@ Pan Huang, Chentao Li*, Jing Qin*
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Human-prior Aligned Multi-order Interaction Mixing Circuits (HACircuit)** method:
+Here's an overview of our **Circult Rule Trees based-Active Semi-fuzzy Clustering (CrtASC)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
@@ -29,7 +29,7 @@ Here's an overview of our **Human-prior Aligned Multi-order Interaction Mixing C
 
 ## 🛠️ Getting Started
 
-To get started with **AE-PATH**, follow the installation instructions below.
+To get started with **CrtASC**, follow the installation instructions below.
 
 1.  Clone the repo
 
@@ -45,25 +45,25 @@ pip install -r requirements.txt
 
 3. Training on Swin Transformer-S Backbone
 ```sh
-sh run_swinT.sh
+sh run_CrtASC.sh
 Modify: --abla_type sota --run_mode train --random_seed ${seed}
 ```
 
 4. Evaluation
 ```sh
-sh run_swinT.sh
+sh run_CrtASC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed}
 ```
 
 5. Extract features for plots
 ```sh
-sh run_swinT.sh
+sh CrtASC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --feat_extract
 ```
 
 6. Interpretability plots
 ```sh
-sh run_swinT.sh
+sh CrtASC.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --bag_weight
 ```
 
