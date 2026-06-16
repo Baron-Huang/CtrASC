@@ -23,7 +23,7 @@ Here's an overview of our **Continuum-aware de-ambiguation grading paradigm**:
 - [x] training code
 - [x] Evaluation code
 - [x] Model code
-- [x] Pretrained weights
+- [x] Model weights
 - [x] Datasets
 
 
