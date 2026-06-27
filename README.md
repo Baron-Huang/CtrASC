@@ -29,12 +29,12 @@ Here's an overview of our **Continuum-aware de-ambiguation grading paradigm (Cle
 
 ## 🛠️ Getting Started
 
-To get started with **CtrASC**, follow the installation instructions below.
+To get started with **ClearGrade**, follow the installation instructions below.
 
 1.  Clone the repo
 
 ```sh
-git clone https://github.com/Baron-Huang/CtrASC
+git clone https://github.com/Baron-Huang/ClearGrade
 ```
 
 2. Install dependencies
@@ -45,25 +45,25 @@ pip install -r requirements.txt
 
 3. Training on Swin Transformer-S Backbone
 ```sh
-sh run_CtrASC.sh
+sh run_ClearGrade.sh
 Modify: --abla_type sota --run_mode train --random_seed ${seed}
 ```
 
 4. Evaluation
 ```sh
-sh run_CtrASC.sh
+sh run_ClearGrade.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed}
 ```
 
 5. Extract features for plots
 ```sh
-sh CtrASC.sh
+sh ClearGrade.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --feat_extract
 ```
 
 6. Interpretability plots
 ```sh
-sh CtrASC.sh
+sh ClearGrade.sh
 Modify: --abla_type sota --run_mode test --random_seed ${seed} --bag_weight
 ```
 
