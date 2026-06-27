@@ -1,5 +1,5 @@
 # ClearGrade
-ClearGrade resolves Pathological Grading Ambiguity across the Pan-squamous Differentiation Continuum
+ClearGrade Resolves Pathological Grading Ambiguity across the Pan-squamous Differentiation Continuum
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Xinwei Zhang, Yiwen Wang, Zheng Gu, Zhenglin Ji, Guoqing Fu, Francesco Mercaldo, Antonella Santone, Kurban Ubul, Binglin Ma, Mingrui Ma*, Chentao Li*, Xiuwu Bian*, Yifang Ping*, and Jing Qin*
